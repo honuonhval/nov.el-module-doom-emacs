@@ -1,0 +1,35 @@
+#+TITLE:   tools/epub
+#+DATE:    August 9, 2020
+#+SINCE:   v2.0.9
+#+STARTUP: inlineimages nofold
+
+* Table of Contents :TOC_3:noexport:
+- [[#description][Description]]
+  - [[#maintainers][Maintainers]]
+  - [[#module-flags][Module Flags]]
+  - [[#plugins][Plugins]]
+  - [[#hacks][Hacks]]
+- [[#prerequisites][Prerequisites]]
+- [[#configuration][Configuration]]
+
+* Description
+Enables nov.el, allowing pdf usage with doom-emacs
+
+** Maintainers
++ @honuonhval (Author)
+
+** Module Flags
+This module provides no flags.
+
+** Plugins
+# A list of linked plugins
++ [[https://depp.brause.cc/nov.el][nov.el mode]]
+
+** Hacks
+# A list of internal modifications to included packages; omit if unneeded
+
+* Prerequisites
+This module has no prerequisites.
+
+* Configuration
+Include this module in private modules (tools/epub)
