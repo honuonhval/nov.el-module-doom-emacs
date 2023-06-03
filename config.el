@@ -4,4 +4,4 @@
   :defer t
   :mode ("\\.epub\\'" . nov-mode)
   :custom
-  (nov-save-place-file "~/.doom.d/nov-places"))
+  (nov-save-place-file "~/.config/doom/nov-places"))
